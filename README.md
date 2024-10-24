@@ -1,5 +1,6 @@
 ## DeepLearning
 Deep Learning Course - Homework Exercises
+
 This repository contains the homework exercises for the Deep Learning Course, covering key topics and practical implementations in deep learning.
 # Topics
 * Homework 1: From the Perceptron to Deep Neural Networks - Introduction to perceptrons, multi-layer perceptrons, and backpropagation for deep neural networks.
